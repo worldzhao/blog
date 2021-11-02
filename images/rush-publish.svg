@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="250px" preserveAspectRatio="none" style="width:503px;height:250px;background:#FFFFFF;" version="1.1" viewBox="0 0 503 250" width="503px" zoomAndPan="magnify"><defs><filter height="300%" id="fts7w4xgeaz87" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><ellipse cx="126" cy="20" fill="#000000" filter="url(#fts7w4xgeaz87)" rx="10" ry="10" style="stroke:none;stroke-width:1.0;"/><path d="M215,54.418 L215,62.9844 L195,66.9844 L215,70.9844 L215,79.5508 A0,0 0 0 0 215,79.5508 L315,79.5508 A0,0 0 0 0 315,79.5508 L315,64.418 L305,54.418 L215,54.418 A0,0 0 0 0 215,54.418 " fill="#FBFB77" filter="url(#fts7w4xgeaz87)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M305,54.418 L305,64.418 L315,64.418 L305,54.418 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="79" x="221" y="71.4849">rush change</text><rect fill="#FEFECE" filter="url(#fts7w4xgeaz87)" height="33.9688" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="138" x="57" y="50"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="118" x="67" y="71.1387">生成 changefile.json</text><path d="M261,108.3867 L261,116.9531 L241,120.9531 L261,124.9531 L261,133.5195 A0,0 0 0 0 261,133.5195 L491,133.5195 A0,0 0 0 0 491,133.5195 L491,118.3867 L481,108.3867 L261,108.3867 A0,0 0 0 0 261,108.3867 " fill="#FBFB77" filter="url(#fts7w4xgeaz87)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M481,108.3867 L481,118.3867 L491,118.3867 L481,108.3867 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="209" x="267" y="125.4536">rush version/rush publish --apply</text><rect fill="#FEFECE" filter="url(#fts7w4xgeaz87)" height="33.9688" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="230" x="11" y="103.9688"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="210" x="21" y="125.1074">消费/读取 changefile.json 更新版本号</text><path d="M196,162.3555 L196,170.9219 L176,174.9219 L196,178.9219 L196,187.4883 A0,0 0 0 0 196,187.4883 L353,187.4883 A0,0 0 0 0 353,187.4883 L353,172.3555 L343,162.3555 L196,162.3555 A0,0 0 0 0 196,162.3555 " fill="#FBFB77" filter="url(#fts7w4xgeaz87)" style="stroke:#A80036;stroke-width:1.0;"/><path d="M343,162.3555 L343,172.3555 L353,172.3555 L343,162.3555 " fill="#FBFB77" style="stroke:#A80036;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="136" x="202" y="179.4224">rush publish --publish</text><rect fill="#FEFECE" filter="url(#fts7w4xgeaz87)" height="33.9688" rx="12.5" ry="12.5" style="stroke:#A80036;stroke-width:1.5;" width="100" x="76" y="157.9375"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="80" x="86" y="179.0762">发布 package</text><ellipse cx="126" cy="222.9063" fill="#FFFFFF" filter="url(#fts7w4xgeaz87)" rx="11" ry="11" style="stroke:#000000;stroke-width:1.0;"/><ellipse cx="126" cy="222.9063" fill="#000000" rx="6" ry="6" style="stroke:#7F7F7F;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="126" x2="126" y1="30" y2="50"/><polygon fill="#A80036" points="122,40,126,50,130,40,126,44" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="126" x2="126" y1="83.9688" y2="103.9688"/><polygon fill="#A80036" points="122,93.9688,126,103.9688,130,93.9688,126,97.9688" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="126" x2="126" y1="137.9375" y2="157.9375"/><polygon fill="#A80036" points="122,147.9375,126,157.9375,130,147.9375,126,151.9375" style="stroke:#A80036;stroke-width:1.0;"/><line style="stroke:#A80036;stroke-width:1.5;" x1="126" x2="126" y1="191.9063" y2="211.9063"/><polygon fill="#A80036" points="122,201.9063,126,211.9063,130,201.9063,126,205.9063" style="stroke:#A80036;stroke-width:1.0;"/><!--MD5=[8f199464add7deb2ce4a5c35eaa70330]
+@startuml
+start
+:生成 changefile.json;
+note right
+rush change
+end note
+:消费/读取 changefile.json 更新版本号;
+note right
+rush version/rush publish - -apply
+end note
+:发布 package;
+note right
+rush publish - -publish
+end note
+stop
+@enduml
+
+PlantUML version 1.2021.13beta8(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
