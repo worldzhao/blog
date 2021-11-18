@@ -1,0 +1,7 @@
+@startuml
+start
+:获取变更的项目名称;
+:询问相关改动信息;
+:生成 changefile.json;
+stop
+@enduml
