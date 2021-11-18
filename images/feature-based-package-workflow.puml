@@ -1,0 +1,26 @@
+@startuml
+start
+partition 开发阶段 {
+  :基于 master 分支拉取 feature 分支;
+  repeat :功能点开发(feature分支);
+  :生成对应功能 changefile.json，推送至 codebase(feature 分支);
+  note right
+  rush change
+  end note
+  repeat while(存在未完成功能点？) is (是)
+}
+partition 测试阶段 {
+  :通过流水线发布测试版本(基于 feature 分支);
+  while(存在 BUG？) is (是)
+  :修复 BUG;
+  :通过流水线发布测试版本(基于 feature 分支);
+  end while(否)
+  :定版;
+}
+partition 发布阶段 {
+  :新建 Merge Request 合入 master 分支;
+  :通过流水线发布正式版本(基于 feature 分支);
+  :将正式包发布自动生成的 MR 合入 master;
+}
+stop
+@enduml
