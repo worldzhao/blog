@@ -1,0 +1,54 @@
+@startuml
+|Main|
+start
+:Generate changefile.json to codebase/master;
+note right
+  rush change
+end note
+|Main|
+:Trigger Release Pipeline;
+|Pipeline|
+partition Initialization {
+:Clone repository;
+:Select target packages;
+note right
+  common/changes/changefile.json
+end note
+:Install dependencies for target packages;
+note right
+  rush install -t package1 -t package2
+end note
+:Build target packages;
+note right
+  rush build -t package1 -t package2
+end note
+}
+:Checkout a new Branch;
+|Pipeline|
+partition VersionBump {
+:Deleting change files and updating change logs for package updates;
+:Applying package updates;
+}
+floating note: rush version
+:Update lockfile;
+fork
+|Pipeline|
+:Publish packages to NPM;
+note left
+  rush publish
+end note
+|NPM|
+:Update packages;
+fork again
+|Pipeline|
+:New Merge Request to Codebase;
+|Codebase|
+:Review and merge;
+fork again
+|Pipeline|
+:Message to IM group;
+|IM|
+:Check result;
+end fork
+stop
+@enduml
