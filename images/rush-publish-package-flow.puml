@@ -1,0 +1,16 @@
+@startuml
+start
+:生成 changefile.json;
+note right
+rush change
+end note
+:消费/读取 changefile.json 更新版本号;
+note right
+rush version/rush publish --apply
+end note
+:发布 package;
+note right
+rush publish --publish
+end note
+stop
+@enduml
