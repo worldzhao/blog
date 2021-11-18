@@ -1,0 +1,45 @@
+@startuml
+|Main|
+start
+:Generate changefile.json to codebase/feature;
+note right
+  rush change
+end note
+|Main|
+:Trigger Canary Pipeline;
+|Pipeline|
+partition Initialization {
+:Clone repository;
+:Select target packages;
+note right
+  common/changes/changefile.json
+end note
+:Install dependencies for target packages;
+note right
+  rush install -t package1 -t package2
+end note
+:Build target packages;
+note right
+  rush build -t package1 -t package2
+end note
+}
+:Bump version;
+note left
+  rush publish --apply
+end note
+fork
+|Pipeline|
+:Publish packages to NPM;
+note left
+rush publish --publish
+end note
+|NPM|
+:Update packages;
+fork again
+|Pipeline|
+:Message to IM group;
+|IM|
+:Check result;
+end fork
+stop
+@enduml
