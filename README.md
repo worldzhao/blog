@@ -2,7 +2,7 @@
 
 ## Latest
 
-[2021-2022，我的前端最佳实践](https://github.com/worldzhao/blog/issues/15)
+- [2021-2022，我的前端最佳实践](https://github.com/worldzhao/blog/issues/15)
 
 ## Monorepo 系列
 
