@@ -1,5 +1,9 @@
 # Blog
 
+## Latest
+
+[2021-2022，我的前端最佳实践](https://github.com/worldzhao/blog/issues/15)
+
 ## Monorepo 系列
 
 - [从 Turborepo 看 Monorepo 工具的任务编排能力](https://github.com/worldzhao/blog/issues/13)
@@ -17,6 +21,7 @@
 
 ## 其他
 
+- [2021-2022，我的前端最佳实践](https://github.com/worldzhao/blog/issues/15)
 - [Yarn duplicate及解决方案](https://github.com/worldzhao/blog/issues/10)
 - [React + TypeScript 从零开发Popup组件并发布到 npm](https://github.com/worldzhao/blog/issues/2)
 - [精读「react-image」设计一款简单实用的 image 组件](https://github.com/worldzhao/blog/issues/1)
