@@ -13,11 +13,11 @@
 
 ## 组件库搭建系列
 
-- [React 组件库搭建指南（一）：项目初始化](https://github.com/worldzhao/blog/issues/7)
-- [React 组件库搭建指南（二）：开发调试](https://github.com/worldzhao/blog/issues/6)
+- [React 组件库搭建指南（一）：项目初始化](https://github.com/worldzhao/blog/issues/3)
+- [React 组件库搭建指南（二）：开发调试](https://github.com/worldzhao/blog/issues/4)
 - [React 组件库搭建指南（三）：编译打包](https://github.com/worldzhao/blog/issues/5)
-- [React 组件库搭建指南（四）：单元测试](https://github.com/worldzhao/blog/issues/4)
-- [React 组件库搭建指南（五）：标准化发布流程](https://github.com/worldzhao/blog/issues/3)
+- [React 组件库搭建指南（四）：单元测试](https://github.com/worldzhao/blog/issues/6)
+- [React 组件库搭建指南（五）：标准化发布流程](https://github.com/worldzhao/blog/issues/7)
 
 ## 其他
 
