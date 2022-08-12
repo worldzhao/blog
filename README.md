@@ -2,6 +2,7 @@
 
 ## Latest
 
+- [NiceModal：重新思考 React 中的弹窗使用方式](https://github.com/worldzhao/blog/issues/16)
 - [2021-2022，我的前端最佳实践](https://github.com/worldzhao/blog/issues/15)
 
 ## Monorepo 系列
@@ -19,10 +20,17 @@
 - [React 组件库搭建指南（四）：单元测试](https://github.com/worldzhao/blog/issues/6)
 - [React 组件库搭建指南（五）：标准化发布流程](https://github.com/worldzhao/blog/issues/7)
 
-## 其他
+## 组件设计
 
-- [2021-2022，我的前端最佳实践](https://github.com/worldzhao/blog/issues/15)
-- [Yarn duplicate及解决方案](https://github.com/worldzhao/blog/issues/10)
+- [NiceModal：重新思考 React 中的弹窗使用方式](https://github.com/worldzhao/blog/issues/16)
 - [React + TypeScript 从零开发Popup组件并发布到 npm](https://github.com/worldzhao/blog/issues/2)
 - [精读「react-image」设计一款简单实用的 image 组件](https://github.com/worldzhao/blog/issues/1)
+
+## 开发实践
+
+- [2021-2022，我的前端最佳实践](https://github.com/worldzhao/blog/issues/15)
 - [基于 React 的简单权限设计](https://github.com/worldzhao/blog/issues/8)
+
+## 其他
+
+- [Yarn duplicate及解决方案](https://github.com/worldzhao/blog/issues/10)
