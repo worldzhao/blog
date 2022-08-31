@@ -28,6 +28,7 @@
 
 ## 开发实践
 
+- [NiceModal：重新思考 React 中的弹窗使用方式](https://github.com/worldzhao/blog/issues/16)
 - [2021-2022，我的前端最佳实践](https://github.com/worldzhao/blog/issues/15)
 - [基于 React 的简单权限设计](https://github.com/worldzhao/blog/issues/8)
 
