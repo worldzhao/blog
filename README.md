@@ -2,6 +2,7 @@
 
 ## Latest
 
+- [Vue Nice Modal：让你的 Modal 调用更轻松](https://github.com/worldzhao/blog/issues/18)
 - [业务开发所需的 TypeScript 常用技巧](https://github.com/worldzhao/blog/issues/17)
 - [NiceModal：重新思考 React 中的弹窗使用方式](https://github.com/worldzhao/blog/issues/16)
 - [2021-2022，我的前端最佳实践](https://github.com/worldzhao/blog/issues/15)
@@ -23,12 +24,14 @@
 
 ## 组件设计
 
+- [Vue Nice Modal：让你的 Modal 调用更轻松](https://github.com/worldzhao/blog/issues/18)
 - [NiceModal：重新思考 React 中的弹窗使用方式](https://github.com/worldzhao/blog/issues/16)
 - [React + TypeScript 从零开发Popup组件并发布到 npm](https://github.com/worldzhao/blog/issues/2)
 - [精读「react-image」设计一款简单实用的 image 组件](https://github.com/worldzhao/blog/issues/1)
 
 ## 开发实践
 
+- [Vue Nice Modal：让你的 Modal 调用更轻松](https://github.com/worldzhao/blog/issues/18)
 - [业务开发所需的 TypeScript 常用技巧](https://github.com/worldzhao/blog/issues/17)
 - [NiceModal：重新思考 React 中的弹窗使用方式](https://github.com/worldzhao/blog/issues/16)
 - [2021-2022，我的前端最佳实践](https://github.com/worldzhao/blog/issues/15)
