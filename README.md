@@ -37,3 +37,8 @@
 - [2021-2022，我的前端最佳实践](https://github.com/worldzhao/blog/issues/15)
 - [基于 React 的简单权限设计](https://github.com/worldzhao/blog/issues/8)
 - [Yarn duplicate及解决方案](https://github.com/worldzhao/blog/issues/10)
+
+Buy Me a Coffee ~
+
+<img src="https://github.com/worldzhao/blog/assets/25662450/d588f6c7-bcc7-4a42-822b-fe77cf5993a8" width="199" height="270"/>
+
