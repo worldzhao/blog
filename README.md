@@ -2,6 +2,7 @@
 
 ## Latest
 
+- [使用 CSS 变量进行 TailwindCSS 移动端适配](https://github.com/worldzhao/blog/issues/20)
 - [Vue Nice Modal：让你的 Modal 调用更轻松](https://github.com/worldzhao/blog/issues/18)
 - [业务开发所需的 TypeScript 常用技巧](https://github.com/worldzhao/blog/issues/17)
 - [NiceModal：重新思考 React 中的弹窗使用方式](https://github.com/worldzhao/blog/issues/16)
@@ -31,6 +32,7 @@
 
 ## 开发实践
 
+- [使用 CSS 变量进行 TailwindCSS 移动端适配](https://github.com/worldzhao/blog/issues/20)
 - [Vue Nice Modal：让你的 Modal 调用更轻松](https://github.com/worldzhao/blog/issues/18)
 - [业务开发所需的 TypeScript 常用技巧](https://github.com/worldzhao/blog/issues/17)
 - [NiceModal：重新思考 React 中的弹窗使用方式](https://github.com/worldzhao/blog/issues/16)
